@@ -1,2 +1,2 @@
 # coding-repo
-codind files
+coding files
