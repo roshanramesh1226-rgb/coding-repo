@@ -5,4 +5,4 @@ number = int(input("Enter a number: "))
 if number > 0:
     print("Prince and Lithiksha love together.")
 else:
-    print("Prince and Lithiksha
+    print("Prince and Lithiksha break up.")
